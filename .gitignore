@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Figures
+*.png
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
