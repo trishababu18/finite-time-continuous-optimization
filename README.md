@@ -39,7 +39,6 @@ Classical gradient flows converge asymptotically to an optimum. In contrast, the
 
 ## Repository Structure
 - `SRC/` – continuous-time optimization flow implementations
-- `experiments/` – scripts reproducing paper figures
 - `figures/` – generated plots (Figures 1–5)
 - `docs/` – final project report
 
